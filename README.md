@@ -1,1 +1,1 @@
-This is Brandon's first Git project!
+This is Brandon's (not)first Git project!
